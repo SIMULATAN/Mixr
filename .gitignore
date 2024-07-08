@@ -1,0 +1,7 @@
+build/
+.kotlin/
+.gradle/
+
+.idea/
+out/
+target/
